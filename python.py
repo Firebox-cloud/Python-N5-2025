@@ -1,0 +1,10 @@
+# Comment ignored by the computer
+print("Second Half action")
+print("======================")
+input( " Enter the home team halftime score:" )
+input( " Enter the home team halftime score:" )
+print("")
+input( " Enter the home team full time score:" )
+input( " Enter the home team full time score:" )
+print("")
+print("The total number of goals scored after halftime:5")
